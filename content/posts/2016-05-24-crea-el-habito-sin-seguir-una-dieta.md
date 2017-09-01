@@ -2,7 +2,7 @@
 title: Crea el hábito en lugar de seguir una dieta
 author: Newman Barreto
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2016-11-30T00:00:00+00:00
 excerpt: Seguir una dieta es una acción limitada, nuestro cerebro se programa solo para cumplir esa tarea que en algún momento termina. Crear un hábito es otra cosa...
 draft: true
 url: /?p=1148

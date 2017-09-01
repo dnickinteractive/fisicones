@@ -1,6 +1,6 @@
 ---
 title: ¿Quieres crecer? ¡Dáñate el músculo! Parte II
-author: @Alice_Fit
+author: Alice Hernández
 type: post
 date: 2012-07-11T15:37:00+00:00
 url: /quieres-crecer-danate-el-musculo-parte-ii/

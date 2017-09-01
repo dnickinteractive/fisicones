@@ -2,7 +2,7 @@
 title: ¿Son efectivas las hormonas producidas con el entrenamiento?
 author: Newman Barreto
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2016-10-30T00:00:00+00:00
 excerpt: 'Mucho se ha pensado que las hormonas producidas con el entrenamiento promueven el crecimiento muscular. Estudios  han demostrado lo contrario...'
 draft: true
 url: /?p=1150
