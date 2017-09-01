@@ -14,7 +14,6 @@ tags:
   - Calorias
   - Masa Muscular
   - quemar grasa
-
 ---
 <span class="main-paragraph">Recordemos el refrán que dice que <em><strong>“El que asa dos conejos, uno se le quema”</strong></em> y esto es perfectamente aplicable al hecho de que quieras ganar músculo y quemar grasa a la vez.</span>
 
