@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suero on Notre-Dame de Paris</title>
+    <link>http://hugo.fisicones.com/tags/suero/</link>
+    <description>Recent content in Suero on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 May 2011 17:23:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://hugo.fisicones.com/tags/suero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cómo elegir bien tus Proteínas</title>
+      <link>http://hugo.fisicones.com/como-elegir-tus-proteinas/</link>
+      <pubDate>Sun, 08 May 2011 17:23:01 +0000</pubDate>
+      
+      <guid>http://hugo.fisicones.com/como-elegir-tus-proteinas/</guid>
+      <description>Cuando vamos a una tienda a comprar nuestras proteínas, nos vemos invadidos por una cantidad de opciones (generalmente marcas americanas), leemos las etiquetas y puedo asegurar que muchos de nosotros no sabemos realmente que es lo que estamos comprando. Cada marca de proteínas tiene sus propias especificaciones y distintos tipos entre si, basados en términos de laboratorio que generalmente desconocemos, y nos &amp;#8220;deslumbran&amp;#8221; cuando los vemos en un atractivo empaque.</description>
+    </item>
+    
+  </channel>
+</rss>

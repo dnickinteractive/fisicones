@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glutamina on Notre-Dame de Paris</title>
+    <link>http://hugo.fisicones.com/tags/glutamina/</link>
+    <description>Recent content in Glutamina on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2011 19:15:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://hugo.fisicones.com/tags/glutamina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La L-Glutamina</title>
+      <link>http://hugo.fisicones.com/la-l-glutamina/</link>
+      <pubDate>Sat, 09 Apr 2011 19:15:36 +0000</pubDate>
+      
+      <guid>http://hugo.fisicones.com/la-l-glutamina/</guid>
+      <description>La L-glutamina es uno de los aminoácidos no esenciales más abundante en el cuerpo humano, representando más de un 50% de los aminoácidos encontrados en las células musculares.
+Pero muy a pesar de esto el cuerpo humano al someterse a situaciones de stress como las que implican el entrenamiento con pesas, generan una caida notable en los niveles de este aminoácido, dando como resultado la peor pesadilla para los aspirantes a construir músculos, un balance de nitrógeno negativo que se traduce en la pérdida muscular.</description>
+    </item>
+    
+  </channel>
+</rss>

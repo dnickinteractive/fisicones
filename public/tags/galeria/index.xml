@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galeria on Notre-Dame de Paris</title>
+    <link>http://hugo.fisicones.com/tags/galeria/</link>
+    <description>Recent content in Galeria on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Oct 2012 16:52:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://hugo.fisicones.com/tags/galeria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Edward Duque – British Grand Prix 2012</title>
+      <link>http://hugo.fisicones.com/edward-duque-british-grand-prix-2012/</link>
+      <pubDate>Tue, 23 Oct 2012 16:52:49 +0000</pubDate>
+      
+      <guid>http://hugo.fisicones.com/edward-duque-british-grand-prix-2012/</guid>
+      <description>Venezolano Eduard Duque obtuvo el 13vo lugar en el British Grand Prix 2012 en la categoría 212</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ejecución on Notre-Dame de Paris</title>
+    <link>http://hugo.fisicones.com/tags/ejecuci%C3%B3n/</link>
+    <description>Recent content in Ejecución on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jun 2016 15:02:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://hugo.fisicones.com/tags/ejecuci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Qué sucede con los ejercicios incómodos?</title>
+      <link>http://hugo.fisicones.com/que-sucede-con-los-ejercicios-incomodos/</link>
+      <pubDate>Fri, 03 Jun 2016 15:02:12 +0000</pubDate>
+      
+      <guid>http://hugo.fisicones.com/que-sucede-con-los-ejercicios-incomodos/</guid>
+      <description>Cada vez que hacemos un ejercicio, nuestro sistema neurológico actúa de forma automática, activando los músculos necesarios para ejecutar movimientos programados previamente por él, pero ¿Qué sucede con los ejercicios incómodos?.
+Con el tiempo en la medida en que hacemos un ejercicio con más frecuencia nuestro sistema neurológico se va fijando cada vez mas para estimular las mismas fibras musculares, dejando de lado las que no están “programadas” para actuar en ese momento.</description>
+    </item>
+    
+  </channel>
+</rss>
