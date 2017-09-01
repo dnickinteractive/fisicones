@@ -13,7 +13,6 @@ tags:
   - Curiosidades
   - Video
 format: video
-
 ---
 <span class="main-paragraph">Caminar es uno de los métodos de cardio mas saludables para cualquier persona, esto ayuda a quemar calorías de una forma sana y recomendada por muchos profesionales de la salud, pero ¿Qué tal si le agregamos un poco de baile?&#8230; El resultado indudable es que se queman muchas más calorías que una simple caminata, y debido a esto es que algunos han optado por hacerlo bailando en la caminadora.</span>
 

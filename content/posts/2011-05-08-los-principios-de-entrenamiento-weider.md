@@ -9,7 +9,6 @@ categories:
 tags:
   - Rutinas
   - Weider
-
 ---
 <span class="main-paragraph">Toda persona que se dedique al entrenamiento con pesas debería conocer bien los <em><strong>Principios de Entrenamiento Weider</strong></em>, estos han sido los pilares de muchos sistemas de entrenamiento, de hecho me atrevería a asegurar que muchos de nosotros los utilizamos sin siquiera estar al tanto de que lo estamos haciendo.</span>
 

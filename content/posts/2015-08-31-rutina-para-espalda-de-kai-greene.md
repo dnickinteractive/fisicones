@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-08-31T11:36:55+00:00
 url: /rutina-para-espalda-de-kai-greene/
-xyz_twap:
-  - 1
 categories:
   - Entrenamiento
 tags:

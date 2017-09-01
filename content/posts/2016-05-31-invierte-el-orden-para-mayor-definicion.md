@@ -5,8 +5,6 @@ type: post
 date: 2016-05-31T20:55:36+00:00
 excerpt: Para lograr mayor definición algo tan sencillo como invertir el orden de la rutina puede ayudarte. Deja los ejercicios "Básicos" para el final y lo notarás.
 url: /invierte-el-orden-para-mayor-definicion/
-xyz_smap:
-  - 1
 categories:
   - Entrenamiento
 tags:

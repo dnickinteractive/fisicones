@@ -13,7 +13,6 @@ tags:
   - Cine
   - Entretenimiento
 format: video
-
 ---
 <span class="main-paragraph">Después de doce años nuevamente Arnold vuelve a su icónico papel como Terminator, pero así como para el los años no han pasado por debajo de la mesa, en este film la edad tampoco pasará desapercibida para su personaje el T-800.</span>
 

@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-09-21T14:23:50+00:00
 url: /que-son-los-peptidos-y-como-funcionan/
-xyz_twap:
-  - 1
 categories:
   - Reportajes
 tags:

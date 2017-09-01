@@ -4,15 +4,12 @@ author: Newman Barreto
 type: post
 date: 2015-06-30T13:43:42+00:00
 url: /combinacion-entrenamiento-preagotamiento-postagotamiento/
-wp-to-buffer-error:
-  - 1
 categories:
   - Entrenamiento
 tags:
   - Rutinas
   - Superseries
   - tips
-
 ---
 <span class="main-paragraph">Algunos de los grandes principios de entrenamiento utilizados por muchos durante años es el entrenamiento Preagotamiento y el Postagotamiento, el método que describo a continuación es una combinación que permite sacar el máximo de ambos principios.</span>
 

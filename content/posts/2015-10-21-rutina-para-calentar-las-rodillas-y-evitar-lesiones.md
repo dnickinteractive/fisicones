@@ -6,8 +6,6 @@ date: 2015-10-21T23:24:23+00:00
 url: /rutina-para-calentar-las-rodillas-y-evitar-lesiones/
 videolink:
   - https://www.youtube.com/watch?v=kQgYQqt8EZc
-xyz_twap:
-  - 1
 categories:
   - Cuádriceps
   - Entrenamiento

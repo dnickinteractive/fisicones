@@ -6,10 +6,6 @@ date: 2016-05-15T17:10:24+00:00
 url: /capitan-america-guerra-civil/
 videolink:
   - https://youtu.be/dKrVegVI0Us?list=PLK5HARgNfgj-cuVJ8e3XrMRFtl-JE0uiQ
-xyz_twap:
-  - 1
-xyz_smap:
-  - 1
 categories:
   - Actualidad
 tags:

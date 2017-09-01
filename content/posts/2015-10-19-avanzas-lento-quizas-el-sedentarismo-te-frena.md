@@ -4,10 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-10-19T11:00:23+00:00
 url: /avanzas-lento-quizas-el-sedentarismo-te-frena/
-xyz_twap:
-  - 1
-wp-to-buffer-error:
-  - 1
 categories:
   - Reportajes
 tags:

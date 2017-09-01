@@ -6,8 +6,6 @@ date: 2016-05-17T14:25:24+00:00
 url: /observa-esta-embarazada-entrenando-con-pesas/
 videolink:
   - http://youtu.be/ODfxUEw-bzo
-xyz_twap:
-  - 1
 categories:
   - Actualidad
 tags:

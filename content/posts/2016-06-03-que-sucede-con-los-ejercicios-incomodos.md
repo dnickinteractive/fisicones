@@ -5,8 +5,6 @@ type: post
 date: 2016-06-03T15:02:12+00:00
 excerpt: Seguramente tienes en tu repertorio una serie de ejercicios incómodos que nunca haces. Pero... ¿Porqué son tan incómodos para ti y para otros no?
 url: /que-sucede-con-los-ejercicios-incomodos/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

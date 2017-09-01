@@ -4,10 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-09-01T10:07:09+00:00
 url: /regla-9-2-1-para-tu-entrenamiento-anual/
-xyz_twap:
-  - 1
-wp-to-buffer-error:
-  - 1
 categories:
   - Reportajes
 tags:

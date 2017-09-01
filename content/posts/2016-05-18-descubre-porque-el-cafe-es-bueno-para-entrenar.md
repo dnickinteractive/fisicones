@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2016-05-18T16:46:13+00:00
 url: /descubre-porque-el-cafe-es-bueno-para-entrenar/
-xyz_smap:
-  - 1
 categories:
   - Nutrición
 tags:

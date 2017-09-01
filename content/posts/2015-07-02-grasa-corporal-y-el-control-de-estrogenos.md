@@ -9,7 +9,6 @@ categories:
 tags:
   - Hormonas
   - tips
-
 ---
 <span class="main-paragraph">Si en algún momento te has preguntado ¿porqué si hago dieta y entreno fuerte, me cuesta tanto bajar la grasa? Probablemente es porque observes que tiendes a acumular grasa en ciertas partes del cuerpo, pero a pesar de que hagas tu mejor esfuerzo en la dieta y el entrenamiento, la respuesta a tu problema puede que este en el control de estrógenos.</span>
 

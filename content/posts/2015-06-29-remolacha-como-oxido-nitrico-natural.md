@@ -4,15 +4,12 @@ author: Newman Barreto
 type: post
 date: 2015-06-29T13:00:51+00:00
 url: /remolacha-como-oxido-nitrico-natural/
-wp-to-buffer-error:
-  - 1
 categories:
   - Nutrición
 tags:
   - Investigaciones
   - Receta Natural
   - tips
-
 ---
 <span class="main-paragraph">Se ha descubierto que el jugo de remolacha es una excelente fuente de óxido nítrico natural, que ha causado grandes expectativas en el mundo deportivo. Los beneficios en el jugo de remolacha se basan en el aumento de los nitratos en el cuerpo lo cual genera un mejor rendimiento en los entrenamientos, el mismo efecto causado por los suplementos que estimulan la producción de óxido nítrico natural en el cuerpo, facilitando además una mayor absorción de glucosa en el músculo.</span>
 

@@ -4,14 +4,11 @@ author: Newman Barreto
 type: post
 date: 2015-07-06T13:00:15+00:00
 url: /como-chris-pratt-adelgazo/
-wp-to-buffer-error:
-  - 1
 categories:
   - Actualidad
 tags:
   - celebridades
   - Cine
-
 ---
 <span class="main-paragraph">Muchos se preguntarán o estarán asombrados con el vuelco que dio este actor en su apariencia física surgiendo la inquietud sobre ¿Cómo Chris Pratt adelgazó?&#8230; </span>
 

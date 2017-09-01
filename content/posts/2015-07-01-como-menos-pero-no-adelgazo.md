@@ -4,14 +4,11 @@ author: Newman Barreto
 type: post
 date: 2015-07-01T13:00:51+00:00
 url: /como-menos-pero-no-adelgazo/
-wp-to-buffer-error:
-  - 1
 categories:
   - Reportajes
 tags:
   - Dietas
   - tips
-
 ---
 <span class="main-paragraph">En algún momento te has preguntado ¿Porqué como menos pero no adelgazo? Si comes más calorías de las que tu cuerpo quema, siempre acumularás el exceso como grasa corporal, pero si pensamos que al comer menos calorías matemáticamente perderemos mucho más grasa, estamos en un error porque realmente el cuerpo no trabaja de esa manera.</span>
 

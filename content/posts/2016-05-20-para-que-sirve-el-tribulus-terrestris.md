@@ -5,8 +5,6 @@ type: post
 date: 2016-05-20T13:41:41+00:00
 excerpt: El Tribulus Terrestris es una hierba utilizada por años en tratamientos para la producción de testosterona. Descubre para que nos sirve en el entrenamiento
 url: /para-que-sirve-el-tribulus-terrestris/
-xyz_smap:
-  - 1
 categories:
   - Nutrición
 tags:

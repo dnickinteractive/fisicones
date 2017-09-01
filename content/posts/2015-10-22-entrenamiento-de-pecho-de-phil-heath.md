@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-10-22T14:02:30+00:00
 url: /entrenamiento-de-pecho-de-phil-heath/
-xyz_twap:
-  - 1
 categories:
   - Entrenamiento
 tags:

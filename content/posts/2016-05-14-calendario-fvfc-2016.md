@@ -4,10 +4,6 @@ author: Newman Barreto
 type: post
 date: 2016-05-14T10:50:28+00:00
 url: /calendario-fvfc-2016/
-xyz_twap:
-  - 1
-xyz_smap:
-  - 1
 categories:
   - Actualidad
   - Eventos

@@ -5,8 +5,6 @@ type: post
 date: 2016-06-01T16:49:00+00:00
 excerpt: Talvez piensas que para disminuir la grasa debes bajar las calorías, pero descubre porqué el mejor método para hacerlo es quemar grasa con ejercicios
 url: /porque-es-mejor-quemar-grasa-con-ejercicios/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

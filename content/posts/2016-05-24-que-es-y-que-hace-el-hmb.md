@@ -5,8 +5,6 @@ type: post
 date: 2016-05-24T17:47:08+00:00
 excerpt: El HMB es un suplemento derivado del aminoácido "Leucina", que tiene como función principal prevenir el deterioro de nuestros músculos y fomentar el crecimiento muscular... Lee sobre esto y mucho más
 url: /que-es-y-que-hace-el-hmb/
-xyz_smap:
-  - 1
 categories:
   - Nutrición
   - Suplementos

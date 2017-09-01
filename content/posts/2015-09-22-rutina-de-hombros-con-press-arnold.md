@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-09-22T23:57:23+00:00
 url: /rutina-de-hombros-con-press-arnold/
-xyz_twap:
-  - 1
 categories:
   - Entrenamiento
 tags:

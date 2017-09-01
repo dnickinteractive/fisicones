@@ -4,14 +4,11 @@ author: Newman Barreto
 type: post
 date: 2015-07-20T09:40:27+00:00
 url: /porque-cuando-empiezo-el-gimnasio-engordo/
-xyz_twap:
-  - 1
 categories:
   - Reportajes
 tags:
   - Hidratacion
   - tips
-
 ---
 <span class="main-paragraph">A muchos nos sucede que cuando empezamos a entrenar nos damos cuenta de que también comenzamos a subir de peso, entonces nos preguntamos ¿Porqué cuando empiezo el gimnasio engordo?&#8230; A algunos les alegra esto porque empiezan a notar que llenan más la ropa y se sienten más grandes, pero a otros les preocupa un poco mas la situación.</span>
 

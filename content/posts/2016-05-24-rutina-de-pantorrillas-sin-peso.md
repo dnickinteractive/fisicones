@@ -7,8 +7,6 @@ excerpt: Este video muestra una rutina que puedes hacer sin necesidad de un gimn
 url: /rutina-de-pantorrillas-sin-peso/
 videolink:
   - https://youtu.be/CSdn8tH-tzY
-xyz_smap:
-  - 1
 categories:
   - Entrenamiento
   - Pantorrillas

@@ -7,8 +7,6 @@ excerpt: La espalda es un musculo muy grande y lo importante es entrenarla ataca
 url: /rutina-para-espalda-de-phil-heath/
 videolink:
   - https://www.youtube.com/watch?v=uxjZHcfXqqQ
-xyz_smap:
-  - 1
 categories:
   - Entrenamiento
   - Espalda
@@ -17,7 +15,6 @@ tags:
   - profesionales
   - Rutinas
 format: video
-
 ---
 <span class="main-paragraph">La rutina para espalda de Phil no es algo fuera de lo común, pero lo importante es que Phil siempre trata de hacer un entrenamiento lo mas completo posible, cuidando que sus músculos sean entrenados de forma simétrica y balanceada.</span>
 

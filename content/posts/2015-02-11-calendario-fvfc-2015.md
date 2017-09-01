@@ -4,10 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-02-11T16:04:15+00:00
 url: /calendario-fvfc-2015/
-xyz_twap:
-  - 1
-wp-to-buffer-error:
-  - 1
 categories:
   - Actualidad
   - Eventos
@@ -15,7 +11,6 @@ tags:
   - Calendario
   - FVFC
   - venezuela
-
 ---
 Recientemente la Federación Venezolana de Fisicoculturismo y Fitness realizó la publicación del calendario de campeonatos a realizarse durante el 2015. La información es &#8220;provisional&#8221; puesto que en su comunicado expresan que **&#8220;Los mismos pueden estar sujetos a cambios&#8221;**.
 

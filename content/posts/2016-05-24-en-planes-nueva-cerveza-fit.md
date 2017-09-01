@@ -7,8 +7,6 @@ excerpt: ¿Te gusta darte un traguito de vez en cuando o irte de fiesta los fine
 url: /en-planes-nueva-cerveza-fit/
 videolink:
   - https://youtu.be/HhGRHndPZJA
-xyz_smap:
-  - 1
 categories:
   - Actualidad
 tags:

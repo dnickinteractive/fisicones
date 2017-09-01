@@ -5,8 +5,6 @@ type: post
 date: 2016-05-25T10:20:39+00:00
 excerpt: Siempre busca el fallo muscular en cada ejercicio. Una serie que no se llega al fallo o se completa fácilmente, puede considerarse como una serie perdida
 url: /pierdes-el-tiempo-sin-el-fallo-muscular/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

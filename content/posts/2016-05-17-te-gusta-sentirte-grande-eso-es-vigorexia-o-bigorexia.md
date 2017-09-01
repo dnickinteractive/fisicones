@@ -6,8 +6,6 @@ date: 2016-05-17T12:29:32+00:00
 url: /te-gusta-sentirte-grande-eso-es-vigorexia-o-bigorexia/
 videolink:
   - https://youtu.be/k4TJkPLN_g8
-xyz_twap:
-  - 1
 categories:
   - Reportajes
 tags:

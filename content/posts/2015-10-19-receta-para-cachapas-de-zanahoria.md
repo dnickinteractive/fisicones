@@ -4,10 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-10-19T10:50:12+00:00
 url: /receta-para-cachapas-de-zanahoria/
-xyz_twap:
-  - 1
-wp-to-buffer-error:
-  - 1
 categories:
   - Nutrición
   - Recetas

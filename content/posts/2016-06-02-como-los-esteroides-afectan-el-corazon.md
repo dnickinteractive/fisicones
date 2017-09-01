@@ -5,8 +5,6 @@ type: post
 date: 2016-06-02T12:38:02+00:00
 excerpt: Aunque muchos no lo quieran admitir, los esteroides afectan el corazón porque indudablemente aumentan los niveles de colesterol... Entérate como sucede esto
 url: /como-los-esteroides-afectan-el-corazon/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

@@ -5,8 +5,6 @@ type: post
 date: 2016-05-23T23:30:18+00:00
 excerpt: Hay promociones que dicen cosas como “¡Pierde 20 kilos en un mes!” o “¡Pasa el fin de semana con 5 kilos menos!”… Descubre que tan cierto es eso
 url: /pierde-20-kilos-en-un-mes/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

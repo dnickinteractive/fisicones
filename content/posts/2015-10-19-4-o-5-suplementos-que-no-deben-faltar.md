@@ -4,10 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-10-19T10:40:30+00:00
 url: /4-o-5-suplementos-que-no-deben-faltar/
-xyz_twap:
-  - 1
-wp-to-buffer-error:
-  - 1
 categories:
   - Nutrición
 tags:

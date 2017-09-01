@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2015-10-21T18:11:21+00:00
 url: /ronda-rousey-el-personaje-del-mes/
-xyz_twap:
-  - 1
 categories:
   - Actualidad
 tags:

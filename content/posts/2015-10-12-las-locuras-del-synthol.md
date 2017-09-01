@@ -6,10 +6,6 @@ date: 2015-10-12T10:35:39+00:00
 url: /las-locuras-del-synthol/
 videolink:
   - https://www.youtube.com/watch?v=isZsBdbtgJ4
-xyz_twap:
-  - 1
-wp-to-buffer-error:
-  - 1
 categories:
   - Reportajes
 tags:

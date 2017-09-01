@@ -4,15 +4,12 @@ author: Newman Barreto
 type: post
 date: 2015-06-29T12:45:32+00:00
 url: /6-rutinas-variantes-de-pectorales/
-wp-to-buffer-error:
-  - 1
 categories:
   - Entrenamiento
 tags:
   - Pecho
   - Rutinas
   - Superseries
-
 ---
 <span class="main-paragraph">En este caso voy a dejar unas 6 rutinas variantes de pectorales diseñadas para explotar el pecho de distintas maneras, son combinaciones que se alejan un poco de lo que mayormente estamos acostumbrados a hacer, pero que las podemos utilizar de vez en cuando para re-estimular nuestros pectorales y obligarlos a crecer con un enfoque distinto.</span>
 

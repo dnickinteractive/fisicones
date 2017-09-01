@@ -4,14 +4,11 @@ author: Newman Barreto
 type: post
 date: 2015-07-13T12:01:11+00:00
 url: /como-empezar-el-gimnasio-desde-cero/
-xyz_twap:
-  - 1
 categories:
   - Entrenamiento
 tags:
   - recuperación
   - suplementos
-
 ---
 <span class="main-paragraph">Cuando nos planteamos entrar o regresar al gym o simplemente cómo empezar el gimnasio desde cero, muchas veces se nos presenta la inquietud sobre lo que debemos hacer, generalmente nos proponemos seguir una dieta, una rutina o simplemente dejamos todo en las manos del entrenador. Más sin embargo hay ciertos detalles que podemos estar pasando por alto y pueden verse reflejado en tu desempeño durante los primeros días de entrenamiento.</span>
 

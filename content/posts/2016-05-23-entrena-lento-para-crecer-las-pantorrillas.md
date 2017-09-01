@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2016-05-23T17:30:38+00:00
 url: /entrena-lento-para-crecer-las-pantorrillas/
-xyz_smap:
-  - 1
 categories:
   - Entrenamiento
   - Pantorrillas

@@ -6,15 +6,12 @@ date: 2015-07-14T12:19:38+00:00
 url: /rutina-de-gluteos-de-michele-dangona/
 videolink:
   - https://www.youtube.com/watch?v=5UvA_vHVoh0
-xyz_twap:
-  - 1
 categories:
   - Entrenamiento
 tags:
   - Gluteos
   - profesionales
 format: video
-
 ---
 <span class="main-paragraph">Muchas veces vemos instructores como le asignan una rutina de glúteos a las chicas basadas en ejercicios como sentadillas, lounges y algunas máquinas enfocadas en esta parte de las piernas, pero que tal si le echamos un vistazo a algunos ejercicios en la rutina de glúteos de Michele D&#8217;Angona </span>
 

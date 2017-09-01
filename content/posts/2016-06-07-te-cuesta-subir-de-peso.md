@@ -5,8 +5,6 @@ type: post
 date: 2016-06-07T15:52:40+00:00
 excerpt: Si eres un hardgainer o te cuesta subir de peso puede empezar por aplicar algunos de estos sencillos consejos a ver si te suman unos kilitos de más...
 url: /te-cuesta-subir-de-peso/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

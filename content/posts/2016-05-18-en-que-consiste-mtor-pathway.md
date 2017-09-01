@@ -4,8 +4,6 @@ author: Newman Barreto
 type: post
 date: 2016-05-18T19:00:27+00:00
 url: /en-que-consiste-mtor-pathway/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

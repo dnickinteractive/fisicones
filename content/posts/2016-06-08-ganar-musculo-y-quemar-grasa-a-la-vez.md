@@ -3,11 +3,8 @@ title: ¿Ganar Músculo y Quemar Grasa a la vez?
 author: Newman Barreto
 type: post
 date: 2016-06-09T00:03:32+00:00
-draft: false
 excerpt: Ganar músculo y quemar grasa a la vez van en 2 vías metabólicas totalmente contrarias, esperar que esto pase como algunos creen no es tan fácil como parece
 url: /ganar-musculo-y-quemar-grasa-a-la-vez/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:

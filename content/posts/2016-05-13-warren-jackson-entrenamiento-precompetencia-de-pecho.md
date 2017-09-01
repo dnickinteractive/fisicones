@@ -6,8 +6,6 @@ date: 2016-05-13T12:47:09+00:00
 url: /warren-jackson-entrenamiento-precompetencia-de-pecho/
 videolink:
   - https://youtu.be/HcUduzzpUcY
-xyz_twap:
-  - 1
 categories:
   - Entrenamiento
   - Pecho

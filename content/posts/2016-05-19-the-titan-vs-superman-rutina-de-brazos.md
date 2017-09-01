@@ -6,8 +6,6 @@ date: 2016-05-19T14:26:34+00:00
 url: /the-titan-vs-superman-rutina-de-brazos/
 videolink:
   - https://www.youtube.com/watch?v=G6ugYWzcItQ
-xyz_smap:
-  - 1
 categories:
   - Antebrazos
   - Biceps

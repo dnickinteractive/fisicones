@@ -5,8 +5,6 @@ type: post
 date: 2016-05-25T09:37:39+00:00
 excerpt: Mantener una actitud positiva a veces no es tarea fácil, pero es algo que se debemos hacer principalmente si queremos pasar del anhelo a la realidad
 url: /actitud-positiva-para-grandes-metas/
-xyz_smap:
-  - 1
 categories:
   - Reportajes
 tags:
