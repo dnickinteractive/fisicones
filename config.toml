@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "http://hugo.fisicones.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -17,8 +17,8 @@ enableRobotsTXT = true
 
 [params]
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  facebook = "https:www.facebook.com/fisicones"
+  twitter = "https://twitter.com/fisicones"
   instagram = ""
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
