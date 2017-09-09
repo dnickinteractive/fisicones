@@ -1,26 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "http://hugo.fisicones.com"
-languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Fisicones - Mas alla de la rutina"
+theme = "fisico"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
-[params]
-  description = "The last theme you'll ever need. Maybe."
-  facebook = "https:www.facebook.com/fisicones"
-  twitter = "https://twitter.com/fisicones"
-  instagram = ""
-  youtube = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
